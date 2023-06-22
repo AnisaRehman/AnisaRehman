@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-**AnisaRehman/AnisaRehman**
+### Hi there 👋 ** I'm Anisa Rehman**
 
 
 - 🔭 I’m currently working on my thesis of M.Phill in Data Science
