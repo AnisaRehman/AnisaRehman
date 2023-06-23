@@ -1,11 +1,19 @@
 ### Hi there. I'm Anisa Rehman 👋
 
 
-- 🔭 I’m currently working on my thesis of M.Phill in Data Science
-- 🌱 I’m currently learning Machine Learning models
-- 👯 I’m looking to collaborate on data analysis projects
-- 🤔 I’m working on financial modeling
-- 💬 Ask ...
+- 🔭 I’m currently working on my thesis of M.Phill in Data Science.
+- 🌱 I love to learn and grow everyday.
+- 👯 python libraries i worked with
+    - Pandas
+    - Numpy
+    - Matplotlib
+    - Seaborn
+- 🤔 I can work efficiently with following tools 
+    - Orange Data Mining
+    - Power Bi
+    - Exploratory.io
+    - Tableau
+- 💬 Ask . . 
 - 📫 connect with me on:
     -  https://www.linkedin.com/in/anisa-rehman/
 - 😄 
