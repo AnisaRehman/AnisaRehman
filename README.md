@@ -13,6 +13,8 @@
     - Power Bi
     - Exploratory.io
     - Tableau
+- Projects in python
+    - sentiemnt analysis of youtube comments
 - 💬 Ask . . 
 - 📫 connect with me on:
     -  https://www.linkedin.com/in/anisa-rehman/
