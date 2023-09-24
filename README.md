@@ -12,14 +12,14 @@
       
 - 🎯 Analyst roles
     - Forecasting Specialist
-    - Custome Segmentation
+    - Customer insights analyst
     - Database consultant
     - Statistical Analyst
            
 - 📍 Web Scraping
     - selenium
     -  scrapy
-    - 
+    
 - 🤔 I can work efficiently with following tools 
     - Orange Data Mining
     - Power Bi
